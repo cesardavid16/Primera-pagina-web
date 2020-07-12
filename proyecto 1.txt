@@ -1,5 +1,5 @@
 hola mundo este es el comienzo de un nuevo curso de git
 
-ahorita vemos que pedo jaja
+esta linea se va modificando por falta de seriedad
 
 y ya viendo que sigue para probar modificaciones
