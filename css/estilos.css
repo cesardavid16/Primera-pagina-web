@@ -2,5 +2,18 @@ body{
     color: crimson;
     text-align: center;                             /*para definir la fuente de la letra*/
     font-family: Arial, Helvetica, sans-serif;      /*para definir la alineacion del texto*/
-        
+    margin: 0;
+    padding: 0;
+}
+
+#container{     /* descripcion de las caracteristicas en cuanto a tamaño y margenes del cuadro del contenedor */
+    width: 70%;
+    padding: 1cm;
+    text-align: left;
+    border: 1px solid chartreuse;
+    margin: 0 auto; 
+}
+
+#container h1{
+    font-size: 20px;
 }
